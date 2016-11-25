@@ -1,0 +1,507 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"s",
+				"sw\tswitch"
+			],
+			[
+				"D",
+				"DISABLED"
+			],
+			[
+				"sh",
+				"showText"
+			],
+			[
+				"state",
+				"stateLog"
+			],
+			[
+				"sta",
+				"stateMessage"
+			],
+			[
+				"rot",
+				"rocksList"
+			],
+			[
+				"ma",
+				"maxRockSum"
+			],
+			[
+				"ro",
+				"rocksList"
+			],
+			[
+				"ca",
+				"character"
+			],
+			[
+				"x_",
+				"x_pos"
+			],
+			[
+				"st",
+				"startGameBtn"
+			],
+			[
+				"can",
+				"canvas"
+			],
+			[
+				"time",
+				"timeLabel"
+			],
+			[
+				"ga",
+				"game_status"
+			],
+			[
+				"ch",
+				"Character"
+			],
+			[
+				"y",
+				"y_pos"
+			],
+			[
+				"to",
+				"totalScoreLabel"
+			],
+			[
+				"ran",
+				"randomNum"
+			],
+			[
+				"fini",
+				"Finish"
+			],
+			[
+				"tim",
+				"timeLabel"
+			],
+			[
+				"g",
+				"global"
+			],
+			[
+				"TO",
+				"TotalScore"
+			],
+			[
+				"che",
+				"checkSecond"
+			],
+			[
+				"tot",
+				"totalScoreLabel"
+			],
+			[
+				"pa",
+				"pack"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"top",
+				"top_y"
+			],
+			[
+				"dra",
+				"drawMole"
+			],
+			[
+				"mo",
+				"mole"
+			],
+			[
+				"main",
+				"mainCanvas"
+			],
+			[
+				"f",
+				"frm1"
+			],
+			[
+				"pre",
+				"preY"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kimsno/Downloads/week09/guestbook/views.py",
+		"/Users/kimsno/Desktop/DDD_study/[7월 29, 2016]DDD_1,2장.txt",
+		"/Users/kimsno/Desktop/DDD_study/[7월 29, 2016]DDD_1,2장",
+		"/Users/kimsno/Desktop/취업자료/입사원서/[벅스]자기소개서.txt",
+		"/Users/kimsno/Desktop/취업자료/입사원서/자소서 자료/관우오빠_카카오",
+		"/Users/kimsno/Desktop/취업자료/입사원서/자소서 자료/다음 인턴_포폴 및 자기소개서/[0200837012_김효상]daum인턴_제출서류/다음카카오 인턴 자기소개서",
+		"/Users/kimsno/Desktop/포폴정리하기/3-1 프로젝트/bfy/algorithm_ver03_backup.php",
+		"/Users/kimsno/Desktop/20160604_면접준비",
+		"/Users/kimsno/Desktop/js_practice/helloword.html",
+		"/Volumes/snopai/utile/발사믹목업/License.txt",
+		"/Users/kimsno/Desktop/TestChart.java",
+		"/Users/kimsno/Desktop/취업자료/필기테스트/[2016]라인플러스.txt",
+		"/Users/kimsno/Desktop/한컴 2016 직무능력테스트/index.jsp",
+		"/Users/kimsno/Downloads/ReservationBidSystem/src/com/kitri4/RBS/Common/RBSMain.java",
+		"/Users/kimsno/Downloads/FrameMain.java",
+		"/Users/kimsno/Documents/eclipseWorkspace/ReservationBidSystem/.classpath",
+		"/Users/kimsno/Documents/eclipseWorkspace/ReservationBidSystem/.project",
+		"/Users/kimsno/Documents/eclipseWorkspace/RemoteSystemsTempFiles/readme.md",
+		"/Users/kimsno/Desktop/kitri_1차_4조/프로젝트_명명규칙",
+		"/Users/kimsno/Desktop/20160324_",
+		"/Users/kimsno/Desktop/maven 장점:단점",
+		"/Users/kimsno/Documents/취업준비/모의면접/[160311]모의면접질문지_2차",
+		"/Users/kimsno/Documents/취업준비/모의면접/[160309]모의면접질문지_1차",
+		"/Volumes/snopai/김선오/jejunu_counputerEdu/[교양,일반선택]/1-1학기 조소/-2085829568",
+		"/Users/kimsno/Dropbox/KITRI/[SmartPlatform]20160303",
+		"/Volumes/C/app/kimsno/product/11.2.0/dbhome_1/NETWORK/ADMIN/listener.ora",
+		"/Volumes/C/app/kimsno/product/11.2.0/dbhome_1/NETWORK/ADMIN/sqlnet.ora",
+		"/Volumes/C/app/kimsno/product/11.2.0/dbhome_1/NETWORK/ADMIN/sqlnet1603029오후2806.bak",
+		"/Volumes/C/app/kimsno/product/11.2.0/dbhome_1/NETWORK/ADMIN/tnsnames.ora",
+		"/Users/kimsno/Dropbox/KITRI/[SmartPlatform]20160302",
+		"/Users/kimsno/Dropbox/[삼성전자]상반기_sw개발",
+		"/Users/kimsno/Dropbox/KITRI/[SmartPlatform]160225_사전교육 2차",
+		"/Users/kimsno/Desktop/canegieUCC/voice/scenario.txt",
+		"/Users/kimsno/Desktop/canegieUCC/UCC/걱정, 스트레스 해소 원칙.txt",
+		"/Users/kimsno/Desktop/canegieUCC/voice/test",
+		"/Users/kimsno/Desktop/카네기 UCC/카네기 UCC 스토리 대본",
+		"/Users/kimsno/Desktop/카네기 UCC/필요이미지 리스트 정리",
+		"/Users/kimsno/Desktop/필요이미지 리스트",
+		"/Users/kimsno/Desktop/카네기 UCC",
+		"/Users/kimsno/Desktop/msOffice",
+		"/Volumes/SNOPAI/소설_txt/[가람] 9클래스 마스터 검수련기 (완)/9클래스 마스터 검수련기 (완).txt",
+		"/Volumes/SNOPAI/14.01.27 특강",
+		"/Users/kimsno/Desktop/yongcheol/bb_final.c",
+		"/Users/kimsno/Desktop/myshell.c",
+		"/Users/kimsno/Downloads/[현장실습일지].txt",
+		"/Users/kimsno/Desktop/yongcheol/bb.c",
+		"/Users/kimsno/Desktop/yongcheol/readme",
+		"/Users/kimsno/Desktop/yongcheol/path.txt",
+		"/Users/kimsno/Desktop/yongcheol/getDistance 설계",
+		"/Users/kimsno/Desktop/Python/20151107/Falling_Rocks_game.py",
+		"/Users/kimsno/Desktop/Python/20151107/Wake_A_Mole_Game.py",
+		"/Users/kimsno/Desktop/_소액수의계약/프로젝트/src/main.py",
+		"/Users/kimsno/Desktop/_소액수의계약/프로젝트/src/start.command",
+		"/Users/kimsno/Downloads/읽을 책[주문하기].txt",
+		"/Users/kimsno/Desktop/_소액수의계약/프로젝트/src/play.py",
+		"/Users/kimsno/Documents/WORK/SeleniumUI/요구조건.txt",
+		"/Users/kimsno/Documents/JAVAworkspace/20151115/helloworld.java",
+		"/Users/kimsno/Desktop/Python/20151104/study/st03.py",
+		"/Users/kimsno/Desktop/Python/20151106/snack_game.py",
+		"/Users/kimsno/Desktop/Python/20151106/game.py",
+		"/Users/kimsno/Desktop/Python/20151106/wake_a_mole_game.py",
+		"/Users/kimsno/Desktop/Python/20151104/pra05.py",
+		"/Users/kimsno/Desktop/Python/20151104/pra04.py",
+		"/Users/kimsno/Desktop/Python/20151104/pra03.py",
+		"/Users/kimsno/Desktop/Python/20151104/pra02.py",
+		"/Users/kimsno/Desktop/Python/20151104/study/pra05.py",
+		"/Users/kimsno/Desktop/Python/20151104/pra01.py",
+		"/Users/kimsno/Desktop/Python/20151104/study/st01.py",
+		"/Users/kimsno/Desktop/Python/20151103/pra01.py",
+		"/Users/kimsno/Desktop/Python/20151102/prac01.py",
+		"/Users/kimsno/Desktop/Python/20151102/prac02.py",
+		"/Users/kimsno/Desktop/Python/20151102/prac04.py",
+		"/Users/kimsno/Desktop/Python/Python 정리-2",
+		"/Users/kimsno/Desktop/Python/20151102/prac05.py",
+		"/Users/kimsno/Desktop/Python/20151031/prac03.py",
+		"/Users/kimsno/Desktop/Python/class_20151028.py",
+		"/Users/kimsno/Desktop/취업/google",
+		"/Users/kimsno/Desktop/취업/쿠팡/시험정보정리",
+		"/Users/kimsno/Desktop/취업/쿠팡/전산학 기초",
+		"/Users/kimsno/Downloads/정보처리기사 실기",
+		"/Users/kimsno/Downloads/parallels 10.2 key",
+		"/Users/kimsno/Desktop/parallels 10.2 key",
+		"/Users/kimsno/Desktop/맥앱-메일"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 165.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\nf",
+			"<div",
+			"<div ",
+			"<div id=\"drafter_grade_",
+			"value",
+			" id=\"",
+			"\" id=\"",
+			" id=\"",
+			" name=",
+			"\n",
+			"\\n",
+			"\t\t\tsql += \"",
+			"public void ",
+			"getString(",
+			"public void set",
+			"\t",
+			");",
+			"\n",
+			"\t",
+			"DOCUMENT_STATUS_NAME",
+			"DOCUMENT_TYPE",
+			"drafter",
+			"name=\"drafter_eid_",
+			"\t\t\tsql += \"",
+			"path = \"",
+			"else if (\"",
+			".jsp",
+			"\n",
+			"act=",
+			".jsp",
+			"/admin_pages/",
+			"/admin_pages/electronicSanction/",
+			"/admin_pages/electronicSanction/electronic.jsp",
+			"else if(\"",
+			"act=",
+			"\n",
+			"act=",
+			".jsp",
+			"Sanction/",
+			"/electronicSanction/",
+			"</span></p>",
+			"<p class=\"바탕글\"><span style=\"FONT-SIZE: 10pt\">",
+			"model",
+			"endBidTable",
+			"localhost",
+			" + wifi",
+			".\n",
+			"  ",
+			"__(선오)",
+			"\n",
+			"악수 영상",
+			"강의실",
+			"- ",
+			"strlen",
+			"\n        ",
+			"                        ",
+			"                       ",
+			"                      ",
+			"                     ",
+			"                    ",
+			"                   ",
+			"                  ",
+			"                 ",
+			"                ",
+			"               ",
+			"              ",
+			"             ",
+			"            ",
+			"           ",
+			"          ",
+			"         ",
+			"        ",
+			" ",
+			"  ",
+			" ",
+			"  dist[j] = dist[v] + a[v][j];\n                ",
+			"        ",
+			"                                ",
+			"                               ",
+			"                              ",
+			"                             ",
+			"                            ",
+			"                           ",
+			"                          ",
+			"                         ",
+			"                        ",
+			"                       ",
+			"                      ",
+			"                     ",
+			"                    ",
+			"                   ",
+			"                  ",
+			"                 ",
+			"                ",
+			"               ",
+			"              ",
+			"             ",
+			"            ",
+			"           ",
+			"          ",
+			"         ",
+			"        ",
+			"//",
+			"c[",
+			"N",
+			"n",
+			"N",
+			"n",
+			"N",
+			"n",
+			"N",
+			"n",
+			"N",
+			"n",
+			"N",
+			"// ",
+			"stateMsg",
+			"textShow",
+			"stateLog",
+			"stateMessage",
+			"root",
+			"멈춤",
+			"시작",
+			"startBtn",
+			"totalScoreLabel,",
+			"gameFrame",
+			"time",
+			"Character"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "settings.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
